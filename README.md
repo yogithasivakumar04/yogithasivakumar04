@@ -13,7 +13,6 @@ I'm a Computer Science and Engineering student passionate about technology, prog
 
 ### 🚀 Projects
 
-- SmartLib – Library Management System using Flask and SQLite
 - CareerPath – Student Career Guidance Platform
 - C Programming Projects – Calculator, Matrix Operations and Student Management System
 
