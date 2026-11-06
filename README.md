@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm a Computer Science Engineering Student 👋
 
-<!--
-**yogithasivakumar04/yogithasivakumar04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring AI Engineer | Python Developer | Tech Enthusiast
 
-Here are some ideas to get you started:
+I'm a Computer Science and Engineering student passionate about technology, programming, and building useful projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Skills
+
+- **Programming:** Python
+- **Web Development:** HTML, CSS
+- **Database:** SQL, MySQL
+- **Currently Learning:** Java, JavaScript, AI Engineering
+
+### 🚀 Projects
+
+- SmartLib – Library Management System using Flask and SQLite
+- CareerPath – Student Career Guidance Platform
+- C Programming Projects – Calculator, Matrix Operations and Student Management System
+
+### 🎯 Current Goals
+
+- Strengthening my programming skills
+- Learning AI Engineering
+- Improving Data Structures and Algorithms
+- Building real-world projects
+
+### 📫 Connect With Me
+
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/yogitha-sivakumar-79380b394/)
+
+---
+
+⭐ Thanks for visiting my profile!
